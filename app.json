@@ -1,7 +1,7 @@
 {
     "name": "Song-Downloader-Bot",
     "description": "A BOT TO DOWNLOAD MUSIC FROM YOUTUBE.",
-    "logo": "https://telegra.ph/file/745badebb188c6da28a67.jpg",
+    "logo": "https://telegra.ph/file/34fca928cb882444ccff1.jpg",
     "stack": "container",
     "keywords": [
         "song",
@@ -35,7 +35,7 @@
         }, 
         "SUPPORT": {
             "description": "Your support chat Username Without @",
-            "value": "NAZRIYASUPPORT"
+            "value": "szteambots"
         }
     },
     "addons": [],
