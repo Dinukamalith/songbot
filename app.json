@@ -10,7 +10,7 @@
         "nazriya"
     ],
     "website": "https://github.com/dinukamalith",
-    "repository": "https://github.com/MR-JINN-OF-TG/Song-Downloader-Bot",
+    "repository": "https://github.com/Dinukamalith/songbot",
     "success_url": "https://t.me/szteambots",
     "env": {
         "BOT_TOKEN": {
