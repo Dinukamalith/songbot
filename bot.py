@@ -50,7 +50,7 @@ CMDS_TEXT = """
 
 ABOUT_TEXT = """
 - **Bot :** Song Downloader Bot`
-- **Creator :** [Dinuka Malith](https://Github.com/Dinukamalith)
+- **Creator :** [Dinuka_Malith](https://Github.com/Dinukamalith)
 - **Support :** [CLICK HERE](https://t.me/szteambots)
 - **Source :** [CLICK HERE](https://github.com/Dinukamalith/songbot)
 - **Language :** [Python3](https://python.org)
