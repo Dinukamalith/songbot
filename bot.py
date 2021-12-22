@@ -52,7 +52,7 @@ ABOUT_TEXT = """
 - **Bot :** Ѕz ΜυЅις Dσшπlσλdεг`
 - **Creator :** [Dinuka Malith](https://Github.com/Dinukamalith)
 - **Support :** [CLICK HERE](https://t.me/szteambots)
-- **Source :** [CLICK HERE](https://telegra.ph/Sz-Music-Downloader-Bot-12-22)
+- **Source :** [CLICK HERE](https://github.com/Dinukamalith/songbot)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
