@@ -8,7 +8,7 @@ A BOT TO DOWNLOAD SONGS FROM YOUTUBE.
 - API_HASH - Get It From [my.telegram.org](https://my.telegram.org) 
 - BOT_TOKEN - Get It From [@Botfather](https://t.me/BOTFATHER)
 - DB_URI - Mongo Database URL from [https://cloud.mongodb.com/](https://cloud.mongodb.com/) 
-- OWNER_ID - Get This From [NAZRIYANAZEEMBOT](https://t.me/NAZRIYANAZEEMBOT) By using /id command on bot pm. 
+- OWNER_ID - Get This From [Sz Rose bot](https://t.me/szrosebot) By using /id command on bot pm. 
 
 
 # Feautures 
